@@ -1,5 +1,4 @@
 import PropTypes from 'prop-types';
-import React from 'react';
 import s from './Filter.module.css';
 
 const Filter = ({ value, onChange }) => (
